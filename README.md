@@ -1,4 +1,4 @@
 # first-repository
-My First experience in Githud
+My First experience in Github
 <br>
 Author- Suneet Singh
